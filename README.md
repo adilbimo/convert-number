@@ -9,10 +9,10 @@ Semoga Bermanfaat 😇 /  May Be useful 😇
 # 📱Instagram = https://www.instagram.com/xlnx.___/
 
 # Linux : 
-$sudo apt install python3 
-$sudo apt install git
-$sudo pip3 install colorama 
-$git clone https://github.com/adilbimo/convert-number
+$sudo apt install python3, 
+$sudo apt install git,
+$sudo pip3 install colorama,
+$git clone https://github.com/adilbimo/convert-number,
 
 # Termux :
 $pkg install python3,
