@@ -94,17 +94,17 @@ if tool == "1":
 
     select = ("""
 {}[{}{}1.{}{}]{} {}for Decimal to Binary{}
-{}[{}{}2.{}{}]{} {}for Decimal to Hexa{}
+{}[{}{}2.{}{}]{} {}for Decimal to Hexadecimal{}
 {}[{}{}3.{}{}]{} {}for Decimal to Octal{}
 {}[{}{}4.{}{}]{} {}for Binary to Decimal{}
-{}[{}{}5.{}{}]{} {}for Binary to Hexa{}
+{}[{}{}5.{}{}]{} {}for Binary to Hexadecimal{}
 {}[{}{}6.{}{}]{} {}for Binary to Octal{}
 {}[{}{}7.{}{}]{} {}for Hexa to Binary{}
 {}[{}{}8.{}{}]{} {}for Hexa to Decimal{}
 {}[{}{}9.{}{}]{} {}for Hexa to Octal{}
 {}[{}{}10.{}{}]{} {}for octal to Binary{}
 {}[{}{}11.{}{}]{} {}for octal to Decimal{}
-{}[{}{}12.{}{}]{} {}for octal to Hexa{}
+{}[{}{}12.{}{}]{} {}for octal to Hexadecimal{}
 
     """)
 
@@ -183,17 +183,17 @@ elif tool == "2":
 
     select = ("""
 {}[{}{}1.{}{}]{} {}untuk Desimal ke Binary{}
-{}[{}{}2.{}{}]{} {}untuk Desimal ke Hexa{}
+{}[{}{}2.{}{}]{} {}untuk Desimal ke Hexadesimal{}
 {}[{}{}3.{}{}]{} {}untuk Desimal ke Octal{}
 {}[{}{}4.{}{}]{} {}untuk Binary ke Desimal{}
-{}[{}{}5.{}{}]{} {}untuk Binary ke Hexa{}
+{}[{}{}5.{}{}]{} {}untuk Binary ke Hexadesimal{}
 {}[{}{}6.{}{}]{} {}untuk Binary ke Oktal{}
 {}[{}{}7.{}{}]{} {}untuk Hexa ke Binary{}
 {}[{}{}8.{}{}]{} {}untuk Hexa ke Desimal{}
 {}[{}{}9.{}{}]{} {}untuk Hexa ke Octal{}
 {}[{}{}10.{}{}]{} {}untuk octal ke Binary{}
 {}[{}{}11.{}{}]{} {}untuk octal ke Desimal{}
-{}[{}{}12.{}{}]{} {}untuk octal ke Hexa{}
+{}[{}{}12.{}{}]{} {}untuk octal ke Hexadesimal{}
 
 
     """)    
