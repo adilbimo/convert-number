@@ -9,19 +9,19 @@ Semoga Bermanfaat 😇
 📱Instagram = https://www.instagram.com/xlnx.___/
 
 # Linux : 
-$sudo apt install python3, 
-$sudo apt install git,
-$sudo pip3 install colorama,
-$git clone https://github.com/adilbimo/convert-number,
+$sudo apt install python3 | 
+$sudo apt install git | 
+$sudo pip3 install colorama | 
+$git clone https://github.com/adilbimo/convert-number
 
 # Termux :
-$pkg install python3,
-$pkg install git,
-$pip3 install colorama,
-$git clone https://github.com/adilbimo/convert-number,
+$pkg install python3 | 
+$pkg install git |
+$pip3 install colorama |
+$git clone https://github.com/adilbimo/convert-number
 
 # Windows : 
-Install python3 on https://www.python.org/downloads/,
-Install git on https://git-scm.com/downloads,
-c> pip install colorama (without 3),
-c> git clone https://github.com/adilbimo/convert-number,
+Install python3 on https://www.python.org/downloads/ | 
+Install git on https://git-scm.com/downloads |
+c> pip install colorama (without 3) | 
+c> git clone https://github.com/adilbimo/convert-number
