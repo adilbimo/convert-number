@@ -11,19 +11,28 @@ Semoga Bermanfaat 😇
 📱Instagram = https://www.instagram.com/piw0.deb/
 
 # Linux : 
-$sudo apt install python3 | 
-$sudo apt install git | 
-$sudo pip3 install colorama | 
+$sudo apt install python3
+
+$sudo apt install git
+
+$sudo pip3 install colorama
+
 $git clone https://github.com/adilbimo/convert-number
 
 # Termux :
-$pkg install python3 | 
-$pkg install git |
-$pip3 install colorama |
+$pkg install python3
+
+$pkg install git
+
+$pip3 install colorama
+
 $git clone https://github.com/adilbimo/convert-number
 
 # Windows : 
-Install python3 on https://www.python.org/downloads/ | 
-Install git on https://git-scm.com/downloads |
-c> pip install colorama (without 3) | 
+Install python3 on https://www.python.org/downloads/
+
+Install git on https://git-scm.com/downloads 
+
+c> pip install colorama 
+
 c> git clone https://github.com/adilbimo/convert-number
