@@ -20,6 +20,8 @@ $sudo pip3 install colorama
 
 $git clone https://github.com/adilbimo/convert-number
 
+$python3 convert.py
+
 # Termux :
 $pkg install python3
 
@@ -29,6 +31,8 @@ $pip3 install colorama
 
 $git clone https://github.com/adilbimo/convert-number
 
+$python3 convert.py
+
 # Windows : 
 Install python3 on https://www.python.org/downloads/
 
@@ -37,3 +41,5 @@ Install git on https://git-scm.com/downloads
 c> pip install colorama 
 
 c> git clone https://github.com/adilbimo/convert-number
+
+c> python convert.py
