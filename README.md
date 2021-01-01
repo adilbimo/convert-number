@@ -11,7 +11,7 @@ Semoga Bermanfaat 😇
 📩Email = iwritec@gmail.com | 
 📱Instagram = https://www.instagram.com/piw0.deb/
 
-# Linux : 
+# Linux/OS X : 
 $sudo apt install python3
 
 $sudo apt install git
