@@ -1,6 +1,7 @@
-# 📂 Covert Number v.1 📂
+# 📂 Covert Number 📂
 
-# ⛔ Coded By Ario Bimo ⛔
+*⛔ Coded By Ario Bimo ⛔*
+
 *20 Okt 2020 10:14 🕙*
 
 Semoga Bermanfaat 😇
