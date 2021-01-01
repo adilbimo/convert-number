@@ -8,8 +8,7 @@ Semoga Bermanfaat 😇
 
 *2 languages available IND/ENG 💬*
 
-📩Email = iwritec@gmail.com | 
-📱Instagram = https://www.instagram.com/piw0.deb/
+# Cara Menjalankannya : 
 
 # Linux/OS X : 
 $sudo apt install python3
@@ -43,3 +42,13 @@ c> pip install colorama
 c> git clone https://github.com/adilbimo/convert-number
 
 c> python convert.py
+
+
+
+# Contact
+
+📩Email = iwritec@gmail.com
+
+📱Instagram = @piw0.deb
+
+twitter   = @Piw0Deb
