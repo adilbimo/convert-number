@@ -1,12 +1,14 @@
 # 📂 Covert Number v.1 📂
 
 # ⛔ Coded By Ario Bimo ⛔
-# 20 Okt 2020 10:14 🕙
+*20 Okt 2020 10:14 🕙*
+
 Semoga Bermanfaat 😇
-# 2 languages available IND/ENG 💬
+
+*2 languages available IND/ENG 💬*
 
 📩Email = iwritec@gmail.com | 
-📱Instagram = https://www.instagram.com/xlnx.___/
+📱Instagram = https://www.instagram.com/piw0.deb/
 
 # Linux : 
 $sudo apt install python3 | 
